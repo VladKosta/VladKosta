@@ -6,7 +6,7 @@ Database and Web Developer
 
 I've been learning code for 2 years now and I'm not gonna stop until death comes (I really wish to gain some digital immortality,tho 😸)
 
-* 🌍  I'm based in Bryansk
+* 🌍  I'm based in Bryansk and Orel,Russia
 * ✉️  You can contact me at [v.kosta2000@vk.com](mailto:v.kosta2000@vk.com)
 * 🧠  I'm learning Python,JS
 * 🤝  I'm open to collaborating on Database Management and Web Developement
