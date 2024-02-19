@@ -8,7 +8,7 @@ I've been learning code for 2 years now and I'm not gonna stop until death comes
 
 * 🌍  I'm based in Bryansk and Orel,Russia
 * ✉️  You can contact me at [v.kosta2000@vk.com](mailto:v.kosta2000@vk.com)
-* 🧠  I'm learning Python,JS
+* 🧠  I'm learning Python,JS,HTML and CSS
 * 🤝  I'm open to collaborating on Database Management and Web Developement
 * ⚡  Gotta say that Russians are open to new alliances
 
